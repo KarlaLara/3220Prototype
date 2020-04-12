@@ -1,0 +1,28 @@
+h2 {
+  font-family: 'Source Sans Pro';
+  color: #757575;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.nav-item {
+  border-color: #00bcd4;
+  border: 2px solid #00bcd4;
+  border-radius: 4px;
+}
+
+h1 {
+  margin-left: 20px;
+  color: #00bcd4;
+}
+
+.colcontdiv {
+  border-right: 1px solid #9e9e9e;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#mainrow {
+  border: 2px solid #00bcd4;
+}
+
